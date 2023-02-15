@@ -35,6 +35,6 @@ module.exports = {
       },
     ],
   },
-  base: '/vuepress/',
-  dest: 'public',
+  // base: '/vuepress/',
+  // dest: 'public',
 }
