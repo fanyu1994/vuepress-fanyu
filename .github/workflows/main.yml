@@ -29,7 +29,6 @@ jobs:
       - name: npm i && build
         run: |
           npm i pnpm -g
-          pnpm i
           pnpm docs:build 
         env:
           CI: true
